@@ -1,6 +1,6 @@
 
 <h3 align="center">Backend Engineer • Blockchain Enthusiast</h3>
-<p align="centre">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rust.svg" width="40" height="40" style="margin-right:30px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" width="40" height="40" style="margin-right:30px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="40" height="40" style="margin-right:30px;"/>
@@ -9,4 +9,4 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" width="40" height="40" style="margin-right:30px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="40" height="40" style="margin-right:30px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" width="40" height="40" style="margin-right:30px;"/>
-</p>
+</div>
