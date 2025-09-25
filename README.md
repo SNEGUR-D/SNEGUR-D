@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" width="40" height="40" style="margin-right:30px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="40" height="40" style="margin-right:30px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" width="40" height="40" style="margin-right:30px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/solana.svg" width="40" height="40" style="margin-right:30px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/Solana.svg" width="40" height="40" style="margin-right:30px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" width="40" height="40" style="margin-right:30px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/solidity.svg" width="40" height="40"/>
 </p>
