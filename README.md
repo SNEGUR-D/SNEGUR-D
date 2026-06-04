@@ -1,4 +1,4 @@
-### <p align="center">Backend Engineer • Blockchain Enthusiast</p>
+### <p align="center">Automation Engineer • Blockchain Enthusiast</p>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rust.svg" width="40" alt="Rust">
