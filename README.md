@@ -28,5 +28,5 @@ xray — self-hosted startup intelligence pipeline, a Crunchbase alternative tha
 ----
 ### Experiments
 
-graph_ingestion_forge — a human-in-the-loop harness that scores an LLM knowledge-graph extraction pipeline (Graphiti → Neo4j) against deterministic synthetic ground truth and tunes it toward per-relation F1 ≥ 0.95. Built on top of OrgForge: prose artifacts are ingested and scored against the simulation's own SimEvent answer key.
+graph_ingestion_forge — a human-in-the-loop harness that scores an LLM knowledge-graph ingestion pipeline (Graphiti → Neo4j) against deterministic synthetic ground truth and tunes it toward per-relation F1 ≥ 0.95. Built on top of OrgForge: prose artifacts are ingested and scored against the simulation's own SimEvent answer key.
   - [Scoring + auto-improvement loop](https://github.com/SNEGUR-D/graph_ingestion_forge)
